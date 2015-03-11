@@ -244,6 +244,7 @@
     <ClCompile Include="1069a The Black Hole of Numbers.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="1070a Mooncake.cpp" />
     <ClCompile Include="1071a Speech Patterns.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
