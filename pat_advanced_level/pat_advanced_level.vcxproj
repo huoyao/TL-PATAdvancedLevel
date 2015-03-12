@@ -220,6 +220,7 @@
     <ClCompile Include="1052a linked list sorting.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="1054a The Dominant Color.cpp" />
     <ClCompile Include="1055a The World%27s Richest.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -235,7 +236,10 @@
     <ClCompile Include="1061a Dating.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="1063a Set Similarity.cpp" />
+    <ClCompile Include="1062a Talent and Virtue.cpp" />
+    <ClCompile Include="1063a Set Similarity.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="1067a  Sort with Swap.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
