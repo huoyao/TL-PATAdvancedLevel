@@ -281,5 +281,8 @@
     <ClCompile Include="1058a A+B in Hogwarts.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1083a List Grades.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
