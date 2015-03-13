@@ -266,5 +266,8 @@
     <ClCompile Include="1053a Path of Equal Weight.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1056a Mice and Rice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
