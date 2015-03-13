@@ -284,5 +284,11 @@
     <ClCompile Include="1083a List Grades.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1042a Shuffling Machine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1064a Complete Binary Search Tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
