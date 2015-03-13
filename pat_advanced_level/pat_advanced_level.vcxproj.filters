@@ -275,5 +275,8 @@
     <ClCompile Include="1051a Pop Sequence.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1086a Tree Traversals Again.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
