@@ -260,5 +260,11 @@
     <ClCompile Include="1040a Longest Symmetric String.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1050a String Subtraction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1053a Path of Equal Weight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
