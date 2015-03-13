@@ -242,16 +242,19 @@
     <ClCompile Include="1070a Mooncake.cpp">
       <Filter>done</Filter>
     </ClCompile>
-    <ClCompile Include="1062a Talent and Virtue.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="1054a The Dominant Color.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="1066a Root of AVL Tree.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>done</Filter>
     </ClCompile>
     <ClCompile Include="1037a Magic Coupon.cpp">
+      <Filter>done</Filter>
+    </ClCompile>
+    <ClCompile Include="1054a The Dominant Color.cpp">
+      <Filter>done</Filter>
+    </ClCompile>
+    <ClCompile Include="1062a Talent and Virtue.cpp">
+      <Filter>done</Filter>
+    </ClCompile>
+    <ClCompile Include="1073a Scientific Notation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
