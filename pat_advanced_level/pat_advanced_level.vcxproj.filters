@@ -257,5 +257,8 @@
     <ClCompile Include="1073a Scientific Notation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1040a Longest Symmetric String.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
