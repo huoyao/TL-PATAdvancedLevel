@@ -251,5 +251,8 @@
     <ClCompile Include="1066a Root of AVL Tree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1037a Magic Coupon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
