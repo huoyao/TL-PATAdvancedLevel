@@ -76,7 +76,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1001a-a b format.cpp">
+    <ClCompile Include="1001a a b format.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="1002a a plus b polynomial.cpp">
@@ -103,7 +103,7 @@
     <ClCompile Include="1009a product of polynomials.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="100a radix.cpp">
+    <ClCompile Include="1010a radix.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="1011a World Cup Betting.cpp">
@@ -313,7 +313,9 @@
     <ClCompile Include="1079a Total Sales of Supply Chain.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="1080a Graduate Admission.cpp" />
+    <ClCompile Include="1080a Graduate Admission.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="1081a rational sum.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -332,7 +334,7 @@
     <ClCompile Include="1086a Tree Traversals Again.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="1087.cpp">
+    <ClCompile Include="1087a All Roads Lead to Rome --right.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="1087a All Roads Lead to Rome.cpp">
@@ -350,7 +352,7 @@
     <ClCompile Include="1091a Acute Stroke.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="letcd after 1065a A+B and C (64bit).cpp">
+    <ClCompile Include="1065a A+B and C %2864bit%29 --after letcd.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="template.cpp">

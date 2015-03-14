@@ -14,12 +14,6 @@
     <ClCompile Include="template.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="100a radix.cpp">
-      <Filter>done</Filter>
-    </ClCompile>
-    <ClCompile Include="1001a-a b format.cpp">
-      <Filter>done</Filter>
-    </ClCompile>
     <ClCompile Include="1002a a plus b polynomial.cpp">
       <Filter>done</Filter>
     </ClCompile>
@@ -188,9 +182,6 @@
     <ClCompile Include="1085a Perfect Sequence.cpp">
       <Filter>done</Filter>
     </ClCompile>
-    <ClCompile Include="1087.cpp">
-      <Filter>done</Filter>
-    </ClCompile>
     <ClCompile Include="1087a All Roads Lead to Rome.cpp">
       <Filter>done</Filter>
     </ClCompile>
@@ -204,9 +195,6 @@
       <Filter>done</Filter>
     </ClCompile>
     <ClCompile Include="1091a Acute Stroke.cpp">
-      <Filter>done</Filter>
-    </ClCompile>
-    <ClCompile Include="letcd after 1065a A+B and C (64bit).cpp">
       <Filter>done</Filter>
     </ClCompile>
     <ClCompile Include="1035a Password.cpp">
@@ -254,44 +242,56 @@
     <ClCompile Include="1062a Talent and Virtue.cpp">
       <Filter>done</Filter>
     </ClCompile>
-    <ClCompile Include="1073a Scientific Notation.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="1086a Tree Traversals Again.cpp">
+      <Filter>done</Filter>
     </ClCompile>
     <ClCompile Include="1040a Longest Symmetric String.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="1050a String Subtraction.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="1053a Path of Equal Weight.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="1056a Mice and Rice.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="1084a Broken Keyboard.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="1051a Pop Sequence.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="1086a Tree Traversals Again.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="1058a A+B in Hogwarts.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="1083a List Grades.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>done</Filter>
     </ClCompile>
     <ClCompile Include="1042a Shuffling Machine.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>done</Filter>
+    </ClCompile>
+    <ClCompile Include="1050a String Subtraction.cpp">
+      <Filter>done</Filter>
+    </ClCompile>
+    <ClCompile Include="1051a Pop Sequence.cpp">
+      <Filter>done</Filter>
+    </ClCompile>
+    <ClCompile Include="1053a Path of Equal Weight.cpp">
+      <Filter>done</Filter>
+    </ClCompile>
+    <ClCompile Include="1056a Mice and Rice.cpp">
+      <Filter>done</Filter>
+    </ClCompile>
+    <ClCompile Include="1058a A+B in Hogwarts.cpp">
+      <Filter>done</Filter>
     </ClCompile>
     <ClCompile Include="1064a Complete Binary Search Tree.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>done</Filter>
+    </ClCompile>
+    <ClCompile Include="1073a Scientific Notation.cpp">
+      <Filter>done</Filter>
     </ClCompile>
     <ClCompile Include="1080a Graduate Admission.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>done</Filter>
+    </ClCompile>
+    <ClCompile Include="1083a List Grades.cpp">
+      <Filter>done</Filter>
+    </ClCompile>
+    <ClCompile Include="1084a Broken Keyboard.cpp">
+      <Filter>done</Filter>
+    </ClCompile>
+    <ClCompile Include="1010a radix.cpp">
+      <Filter>done</Filter>
+    </ClCompile>
+    <ClCompile Include="1001a a b format.cpp">
+      <Filter>done</Filter>
+    </ClCompile>
+    <ClCompile Include="1087a All Roads Lead to Rome --right.cpp">
+      <Filter>done</Filter>
+    </ClCompile>
+    <ClCompile Include="1065a A+B and C %2864bit%29 --after letcd.cpp">
+      <Filter>done</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
