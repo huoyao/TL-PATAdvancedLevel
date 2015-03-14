@@ -11,9 +11,7 @@ int main()
   vector<string> card(55);
   int cnt = 1;
   string cc[4] = {"S","H","C","D"};
-  vector<int> order(55);
-  vector<int> order_(55);
-  vector<int> ordertmp(55);
+  vector<int> order(55), order_(55). ordertmp(55);
   for (int id = 0; id < 4; ++id)
   {
     for (int i = 1; i < 14; ++i)
