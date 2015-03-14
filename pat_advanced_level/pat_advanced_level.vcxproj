@@ -313,6 +313,7 @@
     <ClCompile Include="1079a Total Sales of Supply Chain.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="1080a Graduate Admission.cpp" />
     <ClCompile Include="1081a rational sum.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

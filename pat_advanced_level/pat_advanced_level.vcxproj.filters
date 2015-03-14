@@ -290,5 +290,8 @@
     <ClCompile Include="1064a Complete Binary Search Tree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1080a Graduate Admission.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
